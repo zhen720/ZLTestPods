@@ -1,1 +1,3 @@
-*.txt linguist-language=Object-C
+*.txt linguist-language=Object-C;
+*.h linguist-language=swift;
+*.m linguist-language=swift
